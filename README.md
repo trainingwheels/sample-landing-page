@@ -1,4 +1,4 @@
-sample-splash-page
-==================
+Sample Landing Page
+===================
 
-sample-splash-page
+This is a simple landing page for the Training Wheels Apache plugin.
