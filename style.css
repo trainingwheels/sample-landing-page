@@ -1,5 +1,5 @@
 body {
-  background: url(images/tw-pattern-dark.png) repeat;
+  background: url(http://gettrainingwheels.org/sample-landing-page/images/tw-pattern-dark.png) repeat;
   font-family: 'Open Sans', sans-serif;
   color: #222222;
 }
@@ -32,11 +32,11 @@ h1 {
 }
 @font-face {
     font-family: 'BebasNeueRegular';
-    src: url('fonts/bebas-neue/BebasNeue-webfont.eot');
-    src: url('fonts/bebas-neue/BebasNeue-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/bebas-neue/BebasNeue-webfont.woff') format('woff'),
-         url('fonts/bebas-neue/BebasNeue-webfont.ttf') format('truetype'),
-         url('fonts/bebas-neue/BebasNeue-webfont.svg#BebasNeueRegular') format('svg');
+    src: url('http://gettrainingwheels.org/sample-landing-page/fonts/bebas-neue/BebasNeue-webfont.eot');
+    src: url('http://gettrainingwheels.org/sample-landing-page/fonts/bebas-neue/BebasNeue-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://gettrainingwheels.org/sample-landing-page/fonts/bebas-neue/BebasNeue-webfont.woff') format('woff'),
+         url('http://gettrainingwheels.org/sample-landing-page/fonts/bebas-neue/BebasNeue-webfont.ttf') format('truetype'),
+         url('http://gettrainingwheels.org/sample-landing-page/fonts/bebas-neue/BebasNeue-webfont.svg#BebasNeueRegular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
